@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaFX3capas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaFX3capas_jar</output-path>
+    <root id="archive" name="JavaFX3capas.jar">
+      <element id="module-output" name="JavaFX3capas" />
+    </root>
+  </artifact>
+</component>
